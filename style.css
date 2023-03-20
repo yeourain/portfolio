@@ -168,3 +168,15 @@ p {
     border: 2px solid var(--color-white);
     border-radius: var(--size-border-radius);
 }
+
+/* Section common */
+.section {
+    padding: 50px;
+    text-align: center;
+    margin: auto;
+}
+
+.section__container {
+    max-width: 1200px;
+    margin: auto;
+}
